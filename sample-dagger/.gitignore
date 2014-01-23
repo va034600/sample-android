@@ -1,0 +1,7 @@
+/target/
+/.*
+!.gitignore
+!.travis.yml
+!.git
+/bin/
+/gen/
